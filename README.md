@@ -18,6 +18,9 @@ The Attendance Management System is a tool designed to simplify the process of t
 
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**Database:**
+
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools/Platforms:**
@@ -28,6 +31,44 @@ The Attendance Management System is a tool designed to simplify the process of t
 
 
 ## 📌 Installation
+
+<p align="center"><a href="https://www.mysql.com/" target="_blank"><img src="" width="200" alt="MySQL Logo"></a></p>
+
+<p align="center">
+<a href="https://packagist.org/packages/dg/mysql-dump"><img src="https://img.shields.io/packagist/dt/dg/mysql-dump" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/dg/mysql-dump"><img src="https://img.shields.io/packagist/v/dg/mysql-dump" alt="Latest Stable Version"></a>
+</p>
+
+## ⚡ About MySQL
+  * Install the `mysql` package
+  * Download `mysql` from here https://www.mysql.com/downloads/
+  * Then setup the `mysql` package
+  * Destination Folder. Custom Setup. Ready to Install `mysql`
+  * Checking and updating `mysql` version the following command `mysql -v`
+  * Complete the installation until finish.
+
+## ⚡ Need more Toturial?
+  * [MySQL Official Site](https://www.mysql.com/)
+
+<p align="center"><a href="https://www.djangoproject.com/" target="_blank"><img src="" width="200" alt="Django Logo"></a></p>
+
+<p align="center">
+<a href="https://packagist.org/packages/kyslik/django-signer"><img src="https://img.shields.io/packagist/dt/kyslik/django-signer" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/kyslik/django-signer"><img src="https://img.shields.io/packagist/v/kyslik/django-signer" alt="Latest Stable Version"></a>
+</p>
+
+## ⚡ About Django
+  * Install the `django` package
+  * Download `django` from here https://www.djangoproject.com/download/
+  * Then setup the `django` package
+  * Checking and updating `django` version the following command `python -m django –version`
+  * Complete the installation until finish.
+
+## ⚡ Need more Toturial?
+  * [Django Official Site](https://www.djangoproject.com/)
+
+
+## 🚀 Run the Project
 **1.** Download and Extract the zip file. Make sure to add " python" and "pip" in your environment variables.
 
 **2.** Go to the File Explorer. Open the Extracted zip file.
