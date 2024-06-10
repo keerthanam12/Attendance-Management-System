@@ -32,7 +32,7 @@ The Attendance Management System is a tool designed to simplify the process of t
 
 ## 📌 Installation
 
-<p align="center"><a href="https://www.mysql.com/" target="_blank"><img src="" width="200" alt="MySQL Logo"></a></p>
+<p align="center"><a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/keerthanam12/Attendance-Management-System/assets/145577874/301685ab-a3ae-4323-b8d0-96e708df9b30" width="200" alt="MySQL Logo"></a></p>
 
 <p align="center">
 <a href="https://packagist.org/packages/dg/mysql-dump"><img src="https://img.shields.io/packagist/dt/dg/mysql-dump" alt="Total Downloads"></a>
