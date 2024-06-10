@@ -69,7 +69,7 @@ The Attendance Management System is a tool designed to simplify the process of t
 
 
 ## 🚀 Run the Project
-**1.** Download and Extract the zip file. Make sure to add " python" and "pip" in your environment variables.
+**1.** Download and Extract the zip file. Make sure to add "python" and "pip" in your environment variables.
 
 **2.** Go to the File Explorer. Open the Extracted zip file.
 
