@@ -20,6 +20,12 @@ The Attendance Management System is a tool designed to simplify the process of t
 ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+**Tools/Platforms:**
+
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
 
 ## 📌 Installation
 **1.** Download and Extract the zip file. Make sure to add " python" and "pip" in your environment variables.
@@ -54,3 +60,5 @@ Feel free to reach me through the below handles if you'd like to contact me.
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthana-m-083454259)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keerthana0mohan)
+
+![KEERTHANA](http://ForTheBadge.com/images/badges/built-with-love.svg)
