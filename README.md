@@ -50,7 +50,7 @@ The Attendance Management System is a tool designed to simplify the process of t
 ## ⚡ Need more Toturial?
   * [MySQL Official Site](https://www.mysql.com/)
 
-<p align="center"><a href="https://www.djangoproject.com/" target="_blank"><img src="" width="200" alt="Django Logo"></a></p>
+<p align="center"><a href="https://www.djangoproject.com/" target="_blank"><img src="https://github.com/keerthanam12/Attendance-Management-System/assets/145577874/7ea48dc3-d5a6-4672-8969-c0ed9d4caf8e" width="200" alt="Django Logo"></a></p>
 
 <p align="center">
 <a href="https://packagist.org/packages/kyslik/django-signer"><img src="https://img.shields.io/packagist/dt/kyslik/django-signer" alt="Total Downloads"></a>
